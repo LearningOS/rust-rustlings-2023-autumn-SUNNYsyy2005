@@ -1,0 +1,1 @@
+cargo:rustc-env=TEST_FOO=1697441268
